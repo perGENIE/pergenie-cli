@@ -1,0 +1,16 @@
+#
+.DS_Store
+*~
+\#*
+*.pyc
+*.orig
+*_flymake.py
+
+# setuptools
+dist
+*.egg-info
+pergenie-*
+
+#
+document
+# *.p
