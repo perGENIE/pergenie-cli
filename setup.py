@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import os
 
 VERSION = '0.1.0'
-LONG_DESCRIPTION = os.linesep.join([open('README').read(),
+LONG_DESCRIPTION = os.linesep.join([open('README.md').read(),
                                     open('CHANGELOG').read()])
 
 setup(
@@ -12,9 +12,9 @@ setup(
     author='Kensuke NUMAKURA',
     author_email='numakura@sb.ecei.tohoku.ac.jp',
 
-    description='`perGENIE` is ....',
+    description='perGENIE is a Web/CUI application for personal genome interpretation.',
     long_description=LONG_DESCRIPTION,
-    url='https://bitbucket.org/knmkr/...',
+    url='https://github.com/perGENIE/pergenie',
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
@@ -23,9 +23,8 @@ setup(
         "Intended Audience :: Healthcare Industry",
         "Intended Audience :: Information Technology",
         "Intended Audience :: Science/Research",
-        # "License :: OSI Approved :: **** License",
         "Natural Language :: English",
-        # "Natural Language :: Japanese",
+        "Natural Language :: Japanese",
         "Operating System :: MacOS :: MacOS X",
         "Operating System :: Unix",
         "Programming Language :: Python :: 2.6",
@@ -33,8 +32,8 @@ setup(
         "Programming Language :: Python :: 2 :: Only",
         "Topic :: Scientific/Engineering :: Bio-Informatics",
     ],
-    keywords=['bioinformatics', 'personal genome', 'GWAS'],
-    license='',
+    keywords=['bioinformatics', 'personal genome'],
+    license='GPL version 3 or later',
 
     packages=find_packages(),
     package_data={'pergenie': ['example/*',
