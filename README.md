@@ -46,7 +46,7 @@ Pull requests are welcome! Feel free to contact me :)
 
 ## Lisence
 
-GPL version 3 or later
+GNU AGPLv3
 
 
 (c) 2012-2014 Kensuke NUMAKURA
