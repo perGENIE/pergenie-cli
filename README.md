@@ -2,6 +2,7 @@
 **personal genome interpretation**. This repository contains
 the core utils of perGENIE, such as `Disease Risk Report`.
 
+[![PyPi version](https://pypip.in/v/pergenie/badge.png)](https://crate.io/packages/pergenie/)
 
 ## Quick Start (For non-developers)
 
