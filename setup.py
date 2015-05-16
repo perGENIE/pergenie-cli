@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 LONG_DESCRIPTION = os.linesep.join([open('README.md').read(),
                                     open('CHANGELOG').read()])
 
@@ -10,7 +10,7 @@ setup(
     version=VERSION,
 
     author='Kensuke NUMAKURA',
-    author_email='numakura@sb.ecei.tohoku.ac.jp',
+    author_email='knmkr3gma+pip@gmail.com',
 
     description='perGENIE is a Web/CUI application for personal genome interpretation.',
     long_description=LONG_DESCRIPTION,
@@ -33,7 +33,7 @@ setup(
         "Topic :: Scientific/Engineering :: Bio-Informatics",
     ],
     keywords=['bioinformatics', 'personal genome'],
-    license='GPL version 3 or later',
+    license='GNU AGPLv3',
 
     packages=find_packages(),
     package_data={'pergenie': ['example/*',

@@ -42,12 +42,13 @@ Or clone this repository, then, install by setup script:
 
 ## How to contribute
 
-Pull requests are welcome! Feel free to contact me :)
+Pull requests are welcome! Feel free to contact us :)
 
 
 ## Lisence
 
-GNU AGPLv3
+Copyright (c) 2012,2013,2014,2015 perGENIE Team <knmkr3gma[at]gmail.com>
 
+perGENIE is licensed under the GNU AGPLv3.0.
 
-(c) 2012-2014 Kensuke NUMAKURA
+![GNU AGPLv3](http://www.gnu.org/graphics/agplv3-88x31.png)
