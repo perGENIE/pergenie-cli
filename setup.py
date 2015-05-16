@@ -1,15 +1,15 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.1.2'
-LONG_DESCRIPTION = os.linesep.join([open('README.md').read(),
-                                    open('CHANGELOG').read()])
+VERSION = '0.1.3'
+LONG_DESCRIPTION = os.linesep.join([open('README.rst').read(),
+                                    open('CHANGELOG.rst').read()])
 
 setup(
     name='pergenie',
     version=VERSION,
 
-    author='Kensuke NUMAKURA',
+    author='Kensuke Numakura',
     author_email='knmkr3gma+pip@gmail.com',
 
     description='perGENIE is a Web/CUI application for personal genome interpretation.',

@@ -4,13 +4,6 @@ the core utils of perGENIE, such as ``Disease Risk Report``.
 
 |pypi| |pypi_license|
 
-
-.. contents::
-    :local:
-    :depth: 1
-    :backlinks: none
-
-
 ================================
 Quick Start (For non-developers)
 ================================
