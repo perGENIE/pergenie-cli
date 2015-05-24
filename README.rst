@@ -2,7 +2,7 @@
 **personal genome interpretation**. This repository contains
 the core utils of perGENIE, such as ``Disease Risk Report``.
 
-|pypi| |pypi_license|
+|travis| |pypi| |pypi_license|
 
 ================================
 Quick Start (For non-developers)
@@ -75,3 +75,6 @@ perGENIE is licensed under the GNU AGPLv3.0.
 .. |pypi_license| image:: https://img.shields.io/pypi/l/pergenie.svg
    :target: https://pypi.python.org/pypi/pergenie
    :alt: License on PyPI
+
+.. |travis| image:: https://travis-ci.org/perGENIE/pergenie.svg?branch=master
+   :target: https://travis-ci.org/perGENIE/pergenie
