@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-VERSION = '0.1.3'
+VERSION = '0.1.4'
 LONG_DESCRIPTION = os.linesep.join([open('README.rst').read(),
                                     open('CHANGELOG.rst').read()])
 
@@ -14,7 +14,7 @@ setup(
 
     description='perGENIE is a Web/CUI application for personal genome interpretation.',
     long_description=LONG_DESCRIPTION,
-    url='https://github.com/perGENIE/pergenie',
+    url='https://github.com/perGENIE/pergenie-cli',
     classifiers=[
         "Development Status :: 2 - Pre-Alpha",
         "Intended Audience :: Developers",
