@@ -10,3 +10,5 @@ CHANGELOG
   - Change license to AGPLv3
 - 0.1.3
   - Rewrite README.md to .rst
+- 0.1.4
+  - Rename GitHub repo name
